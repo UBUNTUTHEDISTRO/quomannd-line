@@ -1,6 +1,5 @@
 while True:
 	cmdinput = input('? ')
-	print('Ok buddy')
 	
 	if cmdinput == 'help':
 		print('here is a list of commands')
