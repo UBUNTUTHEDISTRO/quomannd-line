@@ -11,7 +11,7 @@ while True:
 		print('No files in /pythonFS/')
 	
 	elif cmdinput == 'about':
-		print('This python file is an CLI,')
+		print('This python file is a shell,')
 		print('written by me.')
 		print('thx tutorials!')
 	
